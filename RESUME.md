@@ -1,7 +1,7 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
+# Syed Aaqid Ali 
+Senior Software Engineer 
+| [mosviaqid7@gmail.com](mailto:mosviaqid7@gmail.com)
+| [+91-7889443185](tel:+91-7889443185)
 | [example.com](https://example.com)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
@@ -10,15 +10,29 @@ Data-driven professional with a passion for uncovering insights from data to sol
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Senior Software Engineer | Quadrant Technologies 
+*January 2024 - Present*
 
 - Utilize data analysis to optimize business operations and increase efficiency
 - Collaborate with cross-functional teams to develop predictive models
 - Lead data visualization projects to present findings to stakeholders
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Senior Engineer | Ascendion 
+*January 2024 - December 2024*
+
+- Assisted in cleaning and analyzing large datasets for business insights
+- Supported the development of dashboards for real-time business tracking
+- Provided actionable recommendations to improve marketing strategies
+
+### Engineer | LtiMindtree
+*October 2021 - January 2024*
+
+- Assisted in cleaning and analyzing large datasets for business insights
+- Supported the development of dashboards for real-time business tracking
+- Provided actionable recommendations to improve marketing strategies
+
+### Associate Support Executive | Teleperformance
+*May 2020 - June 2021*
 
 - Assisted in cleaning and analyzing large datasets for business insights
 - Supported the development of dashboards for real-time business tracking
